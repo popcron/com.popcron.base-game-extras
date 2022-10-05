@@ -1,5 +1,8 @@
 {
-    "name": "com.popcron.base-game-extras",
-    "displayName": "Popcron Base Game Extras",
-    "version": "1.0.0"
+  "name": "com.popcron.base-game-extras",
+  "displayName": "Popcron Base Game Extras",
+  "version": "1.0.0",
+  "dependencies": {
+    "com.popcron.base-game": "1.0.0"
+  }
 }
