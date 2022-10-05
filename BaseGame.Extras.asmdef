@@ -1,0 +1,18 @@
+{
+    "name": "BaseGame.Extras",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a15d9b899f9e8ea409d7e015bca856e3",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:1491147abca9d7d4bb7105af628b223e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
