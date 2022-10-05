@@ -4,5 +4,9 @@
   "version": "1.0.0",
   "dependencies": {
     "com.popcron.base-game": "1.0.0"
+  },
+  "author" :
+  {
+      "name": "popcron"
   }
 }
