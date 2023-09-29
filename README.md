@@ -1,3 +1,9 @@
+# popcron/com.popcron.base-game-extras
+This was an attempt at making something like a "lib" for my game projects, code that I'd want to use and extend outwards from.
+Archived because this is very easy to do, and is something that should happen internally in projects.
+
+[Successor this repo](https://github.com/popcron-games/com.popcron-games.lib)
+
 ## Platformer movement ability
 For making your player move like in a platformer game
 ## Jumping ability
